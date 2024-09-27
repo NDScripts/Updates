@@ -1,1 +1,1 @@
-{"version":"1.0.3","news":"A few new features and changes"}
+0.0.2
